@@ -39,8 +39,8 @@ To run the GitHub Activity CLI application, you'll need to set up your environme
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/bykplx1/github-activity.git
-cd github-activity
+git clone https://github.com/bykplx1/GitHub-User-Activity
+cd GitHub-User-Activity
 ```
 
 ### 3. Install Dependencies
