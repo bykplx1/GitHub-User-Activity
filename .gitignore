@@ -1,0 +1,27 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore package metadata and build directories
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environment directories
+.env
+.venv
+
+# Ignore pytest and other testing files
+*.log
+*.coverage
+*.hypothesis
+.coverage*
+
+# Ignore IDE and editor configurations
+.vscode/
+.idea/
+
+# Ignore test cache files
+.pytest_cache
